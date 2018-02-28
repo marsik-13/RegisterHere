@@ -1,5 +1,5 @@
 # RegisterHere
-Проект Левы: [GitHub](https://github.com/voVAnZoo/Diarchyofthewalls/ "Гидхаб проэкта")
+Проект Лёвы: [GitHub](https://github.com/voVAnZoo/Diarchyofthewalls/ "Гидхаб проэкта")
 * Миша Крас
 * Лев Монахов
 * Вова Зверев
